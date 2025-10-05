@@ -1,12 +1,7 @@
-# React + Vite
+# Website Tab Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website Tab Counter is a simple yet powerful Chrome extension that helps you stay organized by tracking how many tabs of a particular website are currently open — even across multiple windows.
 
-Currently, two official plugins are available:
+Whether you're juggling multiple Gmail inboxes, research articles, or work dashboards, this extension keeps count and shows it directly in the tab title, so you never lose track of duplicate or extra tabs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Chrome Extension Link: https://chromewebstore.google.com/detail/website-tab-counter/nokbidclcajgpmdcejkcmdbkkcmpgdkk?hl=en-GB&utm_source=ext_sidebar
